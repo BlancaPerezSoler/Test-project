@@ -5,45 +5,44 @@ body {
   width: 60%;
 }
 
-.container{
+.container {
   background-image: url(https://aws.traveler.es/prod/designs/v1/assets/940x627/167726.jpg);
   border: 2px solid black;
   border-radius: 50px;
 }
-.header{
-font-size: 60px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding:20px;
-margin-top: 10px;
+.header {
+  font-size: 60px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 20px;
+  margin-top: 10px;
 }
 
-
-.placeholder{
-border-radius: 20px;
- width: 350px;
- height: 35px;
- margin-top: 20px;
- text-align: center;
+.placeholder {
+  border-radius: 20px;
+  width: 350px;
+  height: 35px;
+  margin-top: 20px;
+  text-align: center;
 }
 
-.btn-primary{
-background-color: rgb(17, 15, 15);
-border: 2px solid rgb(17, 15, 15);
-border-radius: 20px;
-transition: 200ms all ease-in-out; 
-cursor: pointer;
+.btn-primary {
+  background-color: rgb(17, 15, 15);
+  border: 2px solid rgb(17, 15, 15);
+  border-radius: 20px;
+  transition: 200ms all ease-in-out;
+  cursor: pointer;
 }
 
-.btn-primary:hover{
-color: #6772A5;
-background-color:white;
-border: 2px solid white;
+.btn-primary:hover {
+  color: #6772a5;
+  background-color: white;
+  border: 2px solid white;
 }
 .card1,
 .currentTemp {
   border-radius: 25px;
   margin-top: 30px;
-  
 }
 
 .card1 {
@@ -52,8 +51,8 @@ border: 2px solid white;
   background-image: url(https://lacentraldelglobo.com/wp-content/uploads/2019/06/nubes.jpg);
 }
 
-.currentCity{
-font-size: 25px;
+.currentCity {
+  font-size: 25px;
 }
 
 #emoji {
@@ -62,7 +61,7 @@ font-size: 25px;
   margin-top: 40px;
 }
 
-.currentTemp{
+.currentTemp {
   background-image: url(https://lacentraldelglobo.com/wp-content/uploads/2019/06/nubes.jpg);
   border: 2px solid black;
 }
@@ -71,30 +70,32 @@ font-size: 25px;
   padding: 35px;
 }
 
-.temperature{
-font-size: 60px;
+.temperature {
+  font-size: 60px;
 }
 
-.units{
+.units {
   position: relative;
   top: -100px;
   right: -87px;
   font-size: 20px;
-  }
-
-.weather{
-align-content: center;
 }
 
-.daysWeek{
+.weather {
+  align-content: center;
+}
+
+.daysWeek {
   font-size: 20px;
   font-weight: bold;
 }
 
-.emoji{
-font-size: 30px
+.emoji {
+  font-size: 30px;
 }
 
-.temperature2{
-padding-top: 10px;
+.temperature2 {
+  padding-top: 10px;
 }
+
+
